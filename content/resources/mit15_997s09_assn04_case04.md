@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef02cc55-33c4-d991-82e9-4465d2736c67
 resourcetype: Document
 title: 'Case Assignment #4: Risk Management at Apache'
 uid: c4b0b9ce-a6f7-8622-0a0f-af496277ca79

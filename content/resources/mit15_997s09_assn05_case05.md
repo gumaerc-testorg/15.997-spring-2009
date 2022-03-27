@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef02cc55-33c4-d991-82e9-4465d2736c67
 resourcetype: Document
 title: 'Case Assignment #5: Cephalon'
 uid: 8be5b73b-a94a-2711-a8ea-b8a6cc205454

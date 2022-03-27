@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef02cc55-33c4-d991-82e9-4465d2736c67
 resourcetype: Document
 title: 'Case Assignment #3: Antamina'
 uid: 80501238-b27c-bebf-c431-25908f60fb8f
