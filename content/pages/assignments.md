@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the case and case
+  study discussion questions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ R2
 {{< tdopen >}}
 
 
-Simulate the risk distribution of the copper price using the random walk ([PDF]({{< baseurl >}}/resources/mit15_997s09_pset01))
+Simulate the risk distribution of the copper price using the random walk ({{% resource_link 2da6dbf9-e5e9-299d-db12-d466c7aa41c0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +48,7 @@ R3
 {{< tdopen >}}
 
 
-Risk neutral pricing of payoffs tied to the copper price ([PDF]({{< baseurl >}}/resources/mit15_997s09_pset02))
+Risk neutral pricing of payoffs tied to the copper price ({{% resource_link 18870c83-a51e-8966-2455-c6ed9fbadccd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -59,7 +61,7 @@ R4
 {{< tdopen >}}
 
 
-Valuation of a business tied to the copper price ([PDF]({{< baseurl >}}/resources/mit15_997s09_pset03))
+Valuation of a business tied to the copper price ({{% resource_link ac62b439-24f6-040a-c439-0d09f944ae63 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -72,7 +74,7 @@ R5
 {{< tdopen >}}
 
 
-The impact of debt on mine operation and valuation ([PDF]({{< baseurl >}}/resources/mit15_997s09_pset04))
+The impact of debt on mine operation and valuation ({{% resource_link 179f029d-451d-7327-d217-516676f5bbf0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -89,7 +91,7 @@ The impact of debt on mine operation and valuation ([PDF]({{< baseurl >}}/resour
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Grosvenor Group Ltd. ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn01_case01))
+Grosvenor Group Ltd. ({{% resource_link 3962f4d1-5bc8-a134-8e6a-90ad3bfa4d0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Grosvenor Group Ltd. ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn01_case01
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Aspen Technology, Inc.: Currency Hedging Review ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn02_case02))
+Aspen Technology, Inc.: Currency Hedging Review ({{% resource_link 4dd6c1d2-6d8f-fa42-40de-de76fdf2c0a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +109,7 @@ Aspen Technology, Inc.: Currency Hedging Review ([PDF]({{< baseurl >}}/resources
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Bidding for Antamina ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn03_case03))
+Bidding for Antamina ({{% resource_link 80501238-b27c-bebf-c431-25908f60fb8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +118,7 @@ Bidding for Antamina ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn03_case03
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Risk Management at Apache ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn04_case04))
+Risk Management at Apache ({{% resource_link c4b0b9ce-a6f7-8622-0a0f-af496277ca79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +127,7 @@ Risk Management at Apache ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn04_c
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Cephalon, Inc. ([PDF]({{< baseurl >}}/resources/mit15_997s09_assn05_case05))
+Cephalon, Inc. ({{% resource_link 8be5b73b-a94a-2711-a8ea-b8a6cc205454 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

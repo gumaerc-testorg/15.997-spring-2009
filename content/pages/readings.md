@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings for each lecture session,
+  course notes, and information on topics and cases covered.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -66,11 +68,11 @@ Davidson, Ryan. "The State of Freight." _Risk Magazine_, July 2008.
 {{< tdopen >}}
 
 
-Chapter 1: Introduction ([PDF]({{< baseurl >}}/resources/mit15_997s09_read01_ch01))
+Chapter 1: Introduction ({{% resource_link 624b155f-7005-f5c7-85bb-1adbcba459e7 "PDF" %}})
 
-Chapter 2: How Companies Manage Risk ([PDF]({{< baseurl >}}/resources/mit15_997s09_read02_ch02))
+Chapter 2: How Companies Manage Risk ({{% resource_link 18dc0d14-d5ae-9bc7-7453-6118486da215 "PDF" %}})
 
-Chapter 3: Why Companies Manage Risk ([PDF]({{< baseurl >}}/resources/mit15_997s09_read03_ch03))
+Chapter 3: Why Companies Manage Risk ({{% resource_link 465acd88-5f18-6f7a-4caa-9b41b6a4f7e9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -134,9 +136,9 @@ Almeida, Heitor, and Thomas Phillippon. "Estimating the Risk-Adjusted Costs of F
 {{< tdopen >}}
 
 
-Chapter 6: Measuring Risk—Dynamic Models ([PDF]({{< baseurl >}}/resources/mit15_997s09_read06_ch06))
+Chapter 6: Measuring Risk—Dynamic Models ({{% resource_link e107de70-40f3-0e71-2bfa-035fadb506e2 "PDF" %}})
 
-Chapter 9: Pricing Risk ([PDF]({{< baseurl >}}/resources/mit15_997s09_read09_ch09))
+Chapter 9: Pricing Risk ({{% resource_link f6ea450a-6ed3-ac65-68d8-1c77ee57f271 "PDF" %}})
 
 
 {{< tdclose >}}
