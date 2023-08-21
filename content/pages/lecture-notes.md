@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with lecture
+  presentations from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,11 +29,11 @@ L1
 {{< tdopen >}}
 
 
-Hour 1: Introduction: the role of risk management; how companies manage risk; why companies manage risk ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec01_1))
+Hour 1: Introduction: the role of risk management; how companies manage risk; why companies manage risk ({{% resource_link d737268a-cba2-ac3a-d662-c8f42f7dc4fb "PDF" %}})
 
 Hour 2: Case discussion
 
-Hour 3: Measuring risk, part A: exposure ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec01_3))
+Hour 3: Measuring risk, part A: exposure ({{% resource_link 56219a8b-bf05-e6fc-ffc5-5e50a2f87059 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -44,11 +46,11 @@ L2
 {{< tdopen >}}
 
 
-Hour 1: Measuring risk, part B: dynamic models ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec02_1))
+Hour 1: Measuring risk, part B: dynamic models ({{% resource_link 8058eeb6-8031-7885-522c-4c9447c6937d "PDF" %}})
 
 Hour 2: Case discussion
 
-Hour 3: Pricing risk ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec02_3))
+Hour 3: Pricing risk ({{% resource_link dae845b8-3543-bf9d-fd65-8cd5dab14e08 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -61,11 +63,11 @@ L3
 {{< tdopen >}}
 
 
-Hour 1: Valuation ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec03_1))
+Hour 1: Valuation ({{% resource_link b99ecd07-edf2-b357-e868-bef74e739f6f "PDF" %}})
 
 Hour 2: Case discussion
 
-Hour 3: Trading operations ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec03_3))
+Hour 3: Trading operations ({{% resource_link 77a31824-fc5a-0428-2ee7-86cc56edf6a9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -78,11 +80,11 @@ L4
 {{< tdopen >}}
 
 
-Hour 1: Financial policy, and liability management ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec04_1))
+Hour 1: Financial policy, and liability management ({{% resource_link 7b48668e-45bd-8670-b933-65a55789b185 "PDF" %}})
 
 Hour 2: Case discussion
 
-Hour 3: Strategic hedging ([PDF]({{< baseurl >}}/resources/mit15_997s09_lec04_3))
+Hour 3: Strategic hedging ({{% resource_link 3d9c6c35-b0c8-98fd-a3d7-9a8fffc40320 "PDF" %}})
 
 
 {{< tdclose >}}
