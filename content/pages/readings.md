@@ -55,7 +55,7 @@ Nichols, Nancy A., and Judy Lewent. "Scientific Management at Merck: An Intervie
 
 Carter, David A., Daniel A. Rogers, and Betty J. Simkins. "Hedging and Value in the U.S. Airline Industry." _Journal of Applied Corporate Finance_ 18, no. 4 (2006): 21-33.
 
-Prada, Paolo. "{{% resource_link "dde40a0f-15d6-4b8e-a7ec-765cf151aeed" "Fuel Hedges Cloud Airline Results" %}}." _Wall Street Journal_, October 17, 2008.
+Prada, Paolo. "[Fuel Hedges Cloud Airline Results](http://online.wsj.com/article/SB122413698633740003.html)." _Wall Street Journal_, October 17, 2008.
 
 Campbell, Alexander. "Flight Plan." _Risk Magazine_, May 2008.
 
@@ -127,7 +127,7 @@ Jung, Jayne. "Total Control." _Risk Magazine_, April 2008.
 
 Davidson, Ryan. "Paying the Dollar Price." _Risk Magazine_, August 2008.
 
-Nocera, Joe."{{% resource_link "7b04f139-acd0-43e9-aadd-5ed7d7b023c8" "Risk Mismanagement" %}}." _New York Times Magazine_, January 2, 2009.
+Nocera, Joe."[Risk Mismanagement](http://www.nytimes.com/2009/01/04/magazine/04risk-t.html)." _New York Times Magazine_, January 2, 2009.
 
 Almeida, Heitor, and Thomas Phillippon. "Estimating the Risk-Adjusted Costs of Financial Distress." _Journal of Applied Corporate Finance_ 20, no. 4 (2008): 105-109.
 
