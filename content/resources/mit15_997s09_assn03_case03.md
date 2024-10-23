@@ -2,7 +2,7 @@
 content_type: resource
 description: Discussion questions for a case study of the the Antamina mining complex,
   focusing on risk and valuation.
-file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/80501238b27cbebfc43125908f60fb8f_MIT15_997s09_assn03_case03.pdf
+file: /ol-ocw-studio-app/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/80501238b27cbebfc43125908f60fb8f_MIT15_997s09_assn03_case03.pdf
 file_size: 22106
 file_type: application/pdf
 learning_resource_types:
