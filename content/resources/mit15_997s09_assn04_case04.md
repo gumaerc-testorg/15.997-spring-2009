@@ -2,7 +2,7 @@
 content_type: resource
 description: Discussion questions for a case study of hedging strategies at Apache
   Corporation.
-file: /ol-ocw-studio-app/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/c4b0b9cea6f786220a0faf496277ca79_MIT15_997s09_assn04_case04.pdf
+file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/c4b0b9cea6f786220a0faf496277ca79_MIT15_997s09_assn04_case04.pdf
 file_size: 19128
 file_type: application/pdf
 learning_resource_types:
