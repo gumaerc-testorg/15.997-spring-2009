@@ -2,7 +2,7 @@
 content_type: resource
 description: Discussion questions for a case study of Aspen Technology, Inc., its
   business strategy, and its exchange rate exposure.
-file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/4dd6c1d26d8ffa4240dede76fdf2c0a3_MIT15_997s09_assn02_case02.pdf
+file: /ol-ocw-studio-app/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/4dd6c1d26d8ffa4240dede76fdf2c0a3_MIT15_997s09_assn02_case02.pdf
 file_size: 18912
 file_type: application/pdf
 learning_resource_types:

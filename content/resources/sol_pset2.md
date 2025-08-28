@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on risk neutral pricing of payoffs tied to
   the copper price and the binomial model.
-file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/d173c2215fc0e8aca6de25cec613cf7b_sol_pset2.xls
+file: /ol-ocw-studio-app/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/d173c2215fc0e8aca6de25cec613cf7b_sol_pset2.xls
 file_size: 292864
 file_type: application/msword
 learning_resource_types:

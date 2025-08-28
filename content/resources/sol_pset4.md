@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on the impact of debt on mine operation and
   valuation.
-file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/dcbd4be59d92fb66fc01dfbfe02de7de_sol_pset4.xls
+file: /ol-ocw-studio-app/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/dcbd4be59d92fb66fc01dfbfe02de7de_sol_pset4.xls
 file_size: 854528
 file_type: application/msword
 learning_resource_types:
